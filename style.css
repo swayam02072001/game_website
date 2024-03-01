@@ -1,4 +1,20 @@
 
+		/* Responsive CSS */
+        @media only screen and (max-width: 768px) {
+            /* Adjustments for smaller screens */
+            table {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+            table td {
+                display: block;
+                text-align: center;
+            }
+            table td img {
+                display: inline-block;
+                margin-bottom: 10px;
+            }
+        }
 		html
 		{
 			scroll-behavior:smooth;
