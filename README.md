@@ -1,5 +1,7 @@
 # Game Website
 
+[Visit Game Website](https://swayam02072001.github.io/game_website/)
+
 This project is a simple game website created using HTML and CSS. It provides a platform for users to play various online games, view game reviews, and explore gaming-related content.
 
 ## Features
